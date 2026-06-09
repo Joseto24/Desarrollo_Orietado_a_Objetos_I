@@ -2,17 +2,16 @@
 # 🧠 Evaluación Final Transversal – Desarrollo Orientado a Objetos I
 
 ## 👤 Autor del proyecto
-- **Nombre completo:** [Escribe aquí tu nombre]
-- **Sección:** [Escribe aquí tu sección]
-- **Carrera:** Ingeniería en Informática
-- **Sede:** [Escribe aquí tu sede, por ejemplo: Puerto Montt]
+- **Nombre completo:** Jose Cornejo.
+- **Sección:** PRY2202.
+- **Carrera:** Analista Programador Computacional.
+- **Sede:** Campus Online
 
 ---
 
 ## 📘 Descripción general del sistema
-Este proyecto corresponde a la Evaluación Final Transversal de la asignatura *Desarrollo Orientado a Objetos I*. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es modelar y gestionar entidades representativas de un dominio real, aplicando los principios de encapsulamiento, composición, herencia, polimorfismo e interfaces.
-
-El proyecto fue desarrollado a partir de un caso contextualizado, abordando problemáticas reales y proponiendo una solución estructurada, modular y reutilizable.
+Este proyecto corresponde a la Evaluación 1 de la asignatura *Desarrollo Orientado a Objetos I*. El objetivo es diseñar e implementar un sistema básico compuesto por múltiples clases relacionadas. El sistema debe estar organizado en paquetes, aplicar principios de encapsulamiento, composición y reutilización de clases, y contar con una documentación clara que facilite su comprensión.
+El proyecto fue desarrollado a partir del caso Llanquihue Tour.
 
 ---
 
@@ -22,9 +21,7 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 📁 src/
 ├── app/         # Clase principal con el método main
 ├── model/       # Clases de dominio (Persona, Cliente, Empleado, Producto, etc.)
-├── data/        # Clases para la carga y lectura de archivos .txt
-├── utils/       # Utilidades y validaciones
-└── interfaces/  # Interfaces implementadas por las clases
+
 ````
 
 ---
